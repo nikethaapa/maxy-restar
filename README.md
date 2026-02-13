@@ -38,4 +38,4 @@ Responsive structure basics
 
 🔗 Live Demo
 
-(Add your GitHub Pages link here if deployed)
+((https://nikethaapa.github.io/maxy-restar/))
